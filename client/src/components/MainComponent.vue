@@ -1,6 +1,6 @@
 <template>
     <div>
-    <h1 class="text-4xl font-bold text-blue-500 mb-8 ">GPT2Vega</h1>
+    <h1 class="text-4xl font-bold text-blue-500 mb-8 ">Demo</h1>
         <div class="bg-white shadow-md rounded rounded-lg p-6 mx-auto my-container mb-20 border border-gray-100">
             <div id="appmain">
                 <LeftPanel  @generateChart="generateChart" />
